@@ -80,9 +80,9 @@ const ContactSection = () => {
                 <p className="mt-3 font-heading text-sm font-semibold text-muted-foreground">
                   Add your Google Maps embed here
                 </p>
-                <p className="mt-1 text-xs text-muted-foreground/60">
+                {/* <p className="mt-1 text-xs text-muted-foreground/60">
                   Replace this with an iframe from Google Maps
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
