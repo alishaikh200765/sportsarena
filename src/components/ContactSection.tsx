@@ -72,20 +72,16 @@ const ContactSection = () => {
             </div>
           </div>
 
-          {/* Map placeholder */}
           <div className="overflow-hidden rounded-xl border border-border bg-muted">
-            <div className="flex h-80 items-center justify-center">
-              <div className="text-center">
-                <MapPin className="mx-auto h-10 w-10 text-muted-foreground/40" />
-                <p className="mt-3 font-heading text-sm font-semibold text-muted-foreground">
-                  Add your Google Maps embed here
-                </p>
-                {/* <p className="mt-1 text-xs text-muted-foreground/60">
-                  Replace this with an iframe from Google Maps
-                </p> */}
-              </div>
-            </div>
-          </div>
+  <iframe
+    src="https://www.google.com/maps?q=SPORTS+ARENA+Pakistan&output=embed"
+    width="100%"
+    height="320"
+    style={{ border: 0 }}
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  ></iframe>
+</div>
         </motion.div>
       </div>
     </section>
