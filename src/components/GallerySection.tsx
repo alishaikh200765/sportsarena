@@ -67,7 +67,7 @@ const images = [
   { alt: "Football turf", src: "https://www.integralspor.com/uploads/sports-facilities/high-quality-lighting-system.webp" },
   { alt: "Floodlights", src: "https://5.imimg.com/data5/SELLER/Default/2025/9/542334991/CR/NQ/SF/104707241/70w-back-chowk-ac-led-flood-light-500x500.jpeg" },
   { alt: "Padel", src: "https://skypadel.com/wp-content/uploads/2023/05/pista-pro-padel-league-2-1.jpg" },
-  { alt: "Facility exterior", src: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwern1tk4P5VQS_UDyr1Ge7iWu6uVS-JBjD_UGz10WSRRyWNmW9_hzD5UCs97QMm_11H_j7k4YNFHqH7NG9QJT0doWSN9DEBzNAjPYb5oGEmzzkSjJpsyr5PNVlaVQLuN35Wpx3spow=s680-w680-h510-rw" },
+  { alt: "Facility exterior", src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnigrA_ZJbneH0pWIC-aoQIs14A536oeSdxYQ8gdPnIg&s=10" },
   { alt: "Cricket Nets", src: "https://dailymagazine.com.pk/wp-content/uploads/2024/11/Indoor-Cricket.jpg" },
 ];
 
